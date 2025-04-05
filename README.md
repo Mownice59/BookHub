@@ -1,8 +1,11 @@
-<div align='center'><img style="width:16%" src='https://github.com/imsanthosh7/BookHub/assets/154437536/b03e23b9-82f3-4897-8ade-ef0a36e6322f'/></div>
-# BookHub
+ ## BookHub
+<div align='center'><img style="width:16%" src='https://github.com/imsanthosh7/BookHub/assets/154437536/b03e23b9-82f3-4897-8ade-ef0a36e6322f'/></div
+                                                                                                                                                 
+**## Live Demo**:https://book-hub-lemon.vercel.app/
+
 BookHub is a ReactJS application that allows users to search for books and view details about them, including their cover image, title, author, and publication date. Leveraging the Open Library Search API, BookHub provides a fast, responsive, and dynamic user interface for book enthusiasts to discover and explore books.
 
-**Live Demo**:https://book-hub-lemon.vercel.app/
+
 
 ## Features
 * __Book Search__: Search for books using the Open Library Search API.
